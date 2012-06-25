@@ -1,4 +1,4 @@
 reallyenglish-authpf-proxypac
 =============================
 
-proxy.pac for authpf users
+proxy.pac for authpf users.
